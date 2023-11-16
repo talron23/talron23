@@ -21,9 +21,11 @@ I'm a results-oriented engineer with a strong background in AWS, Docker, Kuberne
 
 ## 🌱 What I'm Currently Learning
 
-I'm currently focusing on:
+I'm currently dedicating my time and efforts to mastering various aspects of DevOps, with a specific focus on CI/CD.
 
-- DevOps Technologies
+- GitLab CI/CD
+- ArgoCD
+- Infrastructure as Code (IaC): Implementing IaC principles using tools like Terraform or Ansible to manage infrastructure.
 
 I'm always eager to expand my knowledge and stay up-to-date with the latest trends in DevOps.
 
